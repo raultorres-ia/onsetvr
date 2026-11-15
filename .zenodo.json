@@ -1,0 +1,24 @@
+{
+  "title": "OnSetVR: dirigir la cámara de un vídeo generado con IA rodando con el cuerpo dentro de la escena",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>OnSetVR es un método de trabajo, y una herramienta propia del autor, para dirigir la cámara de un vídeo generado con inteligencia artificial como se hace en un plató: con el cuerpo. El operador se pone unas gafas de realidad virtual, entra en una maqueta 3D de la escena a tamaño real y rueda la cámara a mano, toma a toma, mirando un monitor. Cada toma se convierte en un vídeo de maqueta que el modelo generativo usa como referencia de cámara, de ritmo y de puesta en escena. El documento presenta el método, sus resultados y su cronología, y deja constancia pública y fechada de su autoría. Incluye el artículo en castellano y en inglés.</p><p><em>OnSetVR: directing the camera of an AI-generated video by shooting with your body inside the scene.</em> A working method for directing the camera of AI-generated video the way it is done on a film set. Article in Spanish and English.</p>",
+  "creators": [
+    {
+      "name": "Torres Cobos, Raül",
+      "orcid": "0009-0004-3298-5198"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "spa",
+  "version": "1.0",
+  "keywords": [
+    "virtual production",
+    "generative video",
+    "AI filmmaking",
+    "cinematography",
+    "previsualization",
+    "virtual reality",
+    "directing"
+  ]
+}
