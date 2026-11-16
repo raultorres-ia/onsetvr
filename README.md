@@ -22,13 +22,13 @@ Autor / Author: **Raül Torres Cobos** ([ORCID 0009-0004-3298-5198](https://orci
 
 OnSetVR es un método de dirección para el vídeo generado con IA: el director entra con unas gafas de realidad virtual en una maqueta de la escena y rueda la cámara a mano, toma a toma, como en un plató. Cada toma se convierte en la referencia de cámara, ritmo y puesta en escena para el modelo generativo.
 
-- Artículo: [docs/articulo_es.md](docs/articulo_es.md)
+- Artículo: [PDF](docs/OnSetVR_articulo_es.pdf) · [web](docs/articulo_es.md)
 
 ## What it is
 
 OnSetVR is a directing method for AI-generated video: the director steps into a blockout of the scene with a virtual reality headset and shoots the camera by hand, take after take, as on a film set. Each take becomes the camera, pacing and staging reference for the generative model.
 
-- Article: [docs/article_en.md](docs/article_en.md)
+- Article: [PDF](docs/OnSetVR_article_en.pdf) · [web](docs/article_en.md)
 
 ## Disponibilidad / Availability
 
